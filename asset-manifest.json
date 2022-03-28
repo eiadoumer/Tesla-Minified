@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.ee600fba.css",
-    "main.js": "/static/js/main.2f271522.js",
-    "index.html": "/index.html",
-    "main.ee600fba.css.map": "/static/css/main.ee600fba.css.map",
-    "main.2f271522.js.map": "/static/js/main.2f271522.js.map"
+    "main.css": "/Tesla-Minified/static/css/main.ee600fba.css",
+    "main.js": "/Tesla-Minified/static/js/main.02e1fc56.js",
+    "index.html": "/Tesla-Minified/index.html",
+    "main.ee600fba.css.map": "/Tesla-Minified/static/css/main.ee600fba.css.map",
+    "main.02e1fc56.js.map": "/Tesla-Minified/static/js/main.02e1fc56.js.map"
   },
   "entrypoints": [
     "static/css/main.ee600fba.css",
-    "static/js/main.2f271522.js"
+    "static/js/main.02e1fc56.js"
   ]
 }

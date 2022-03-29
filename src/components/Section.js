@@ -43,12 +43,11 @@ export default Section
 const Wrap = styled.div `
 width:100vw;
 z-index:10;
-
 height:100vh;
 background-size:cover;
+background-image: ${props=>`url('/images/${props.bgImage}')`};
 background-position:center;
 background-repeat:no-repeat;
-background-image:${props => `url('/images/${props.bgImage}')`};
 display:flex;
 flex-direction:column;
 justify-content:space-between;
